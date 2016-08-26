@@ -1,3 +1,1 @@
-# [GithubVisualizer](https://github.com/artzub/GitHubVisualizer)
-> Visualization the history of repository changes based on data from GitHub http://ghv.artzub.com/
-
+https://kyungw00k.github.io/2016/01/26/githubvisualizer/

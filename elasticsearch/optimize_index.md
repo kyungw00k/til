@@ -1,5 +1,1 @@
-# Optimize Index
-
-```sh
-curl -XPOST 'http://<host>:9200/_all/_optimize?only_expunge_deletes=true' > /path/to/log/optimize_index.log.`date +\%Y\%m\%d` 2>&1
-```
+https://kyungw00k.github.io/2016/01/20/elasticsearch-optimize-index/

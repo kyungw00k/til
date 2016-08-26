@@ -1,3 +1,1 @@
-# Manage Index
-
-See https://github.com/imperialwicket/elasticsearch-logstash-index-mgmt
+https://kyungw00k.github.io/2015/12/10/elasticsearch-logstash-index-management/

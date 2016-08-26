@@ -1,7 +1,1 @@
-# How to read rc file using scala
-
-```
-val inputRDD = sc.hadoopFile[LongWritable, BytesRefArrayWritable, RCFileInputFormat[LongWritable, BytesRefArrayWritable]](path)
-```
-
-(from http://stackoverflow.com/questions/30567902/how-to-read-rc-file-using-scala)
+https://kyungw00k.github.io/2015/10/22/how-to-read-rc-file-using-scala/

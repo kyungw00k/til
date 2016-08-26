@@ -1,10 +1,1 @@
-# Alert 창 무시하기
-
-
-```js
-const dialog = require('electron').dialog;
-dialog.showOpenDialog = function() {/* do nothing */};
-dialog.showMessageBox = function() {/* do nothing */};
-dialog.showErrorBox = function() {/* do nothing */};
-dialog.showSaveDialog  = function() {/* do nothing */};
-```
+https://kyungw00k.github.io/2016/03/23/electron-alert-%EC%B0%BD-%EB%AC%B4%EC%8B%9C%ED%95%98%EA%B8%B0/
